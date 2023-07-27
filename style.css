@@ -11,6 +11,7 @@ h1{
     border-right: 2px solid pink;
     width: 400px;
     text-align: center;
+    box-shadow: 4px 4px 5px #888888;
 }
 img{
     width: 450px;
