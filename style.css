@@ -3,6 +3,12 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+h1{
+    font-family: fantasy;
+    font-size: 3em;
+    border-bottom: 2px solid pink;
+}
 img{
     width: 450px;
     height: 300px;
